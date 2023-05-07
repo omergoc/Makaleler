@@ -1,5 +1,4 @@
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image1.png){width="3.308333333333333in"
-height="1.8604166666666666in"}  **Django Framework Nedir?**
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image1.png)  **Django Framework Nedir?**
 
 ***Django***; Python programlama dilinde yazılmış, açık kaynaklı bir web
 uygulama çatısıdır. Bu çatı sayesinde web uygulamalarınızı daha hızlı ve
