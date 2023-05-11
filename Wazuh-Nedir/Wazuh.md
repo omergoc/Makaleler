@@ -1,6 +1,7 @@
 ![](vertopal_50440ba390d044fbab36323b23391591/media/image1.jpeg)
 **Wazuh Nedir ve Ne İçin
 Kullanılır**
+
 Wazuh, güvenlik tehditlerini tespit etmek, olayları izlemek ve güvenlik
 olaylarını analiz etmek için kullanılan bir açık kaynaklı güvenlik
 bütünleşik bir çözümdür. Wazuh, siber güvenlik operasyonlarını ve olay
