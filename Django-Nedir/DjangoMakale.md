@@ -1,4 +1,5 @@
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image1.png)  **Django Framework Nedir?**
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image1.png){width="3.308333333333333in"
+height="1.8604166666666666in"}  **Django Framework Nedir?**
 
 ***Django***; Python programlama dilinde yazılmış, açık kaynaklı bir web
 uygulama çatısıdır. Bu çatı sayesinde web uygulamalarınızı daha hızlı ve
@@ -122,7 +123,8 @@ taraf kütüphaneler sağlar.
 Tüm bu özellikler; Django\'nun web uygulama geliştirme için neden
 popüler bir seçim olduğunu göstermektedir.
 
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image2.png)
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image2.png){width="3.634027777777778in"
+height="1.9111111111111112in"}
 
   **Uygulamaların Geliştirilmesi**
 
@@ -167,7 +169,8 @@ adımları***dır. Django\'nun hazır bileşenleri sayesinde bu adımların
 çoğunu daha hızlı ve kolay bir şekilde gerçekleştirebilirsiniz.
 
  **Django da İşletim Sistemleri
-Desteği**![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image3.jpeg)
+Desteği**![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image3.jpeg){width="7.013888888888889in"
+height="3.213888888888889in"}
 
 ***Django***, Python dilinin bir web framework\'üdür ve Python\'un
 çalıştığı tüm işletim sistemlerinde çalışabilmektedir. Bundan ötürü de
@@ -186,7 +189,8 @@ web framework\'üdür. Bu da Django\'yu, farklı platformlarda uygulama
 geliştirme ihtiyacı olan geliştiriciler için uygun bir seçenek haline
 getirir.
 
-  ![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image4.png) **Django Güvenlik Özellikleri**
+  ![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image4.png){width="4.2375in"
+height="1.1006944444444444in"} **Django Güvenlik Özellikleri**
 
 Django ayrıca web uygulamaları için birçok güvenlik özelliği
 sunmaktadır. Aşağıda Django\'nun en önemli güvenlik özellikleri yer
@@ -237,7 +241,8 @@ Bahsetmiş olduğumuz bu çatı; web uygulamaları için birçok güvenlik
 kullanarak güvenli ve güvenilir web uygulamaları
 geliştirebilmektedirler. 
 
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image5.jpeg) 
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image5.jpeg){width="3.683333333333333in"
+height="2.765277777777778in"} 
 
 **Django Kullanan Web Siteleri Nelerdir?**
 
@@ -286,7 +291,8 @@ Bunlar sadece ***Django kullanan web siteleri*** arasından birkaç
 örnektir. Django birçok farklı alanda kullanılan ve birçok popüler web
 sitesinde kullanılan bir web framework olduğunu buradan anlayabiliriz. 
 
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image6.png)
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image6.png){width="4.686805555555556in"
+height="2.8118055555555554in"}
 
 **Django Yazılım Örnekleri**
 
@@ -331,7 +337,8 @@ farklı uygulama için kullanılabileceğini göstermektedir. Django oldukça
 güçlü ve esnek bir web frameworküdür ve de ihtiyacınız olan hemen hemen
 her tür web uygulamasını geliştirmenize olanak sağlayacaktır
 
-![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image7.jpeg)
+![](vertopal_55d3b8034ef54ace8f4ef4830a2b6043/media/image7.jpeg){width="3.7506944444444446in"
+height="3.0006944444444446in"}
 
 **Django'nun Alternatifleri**
 
