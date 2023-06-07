@@ -45,7 +45,7 @@ Veri bağlantısı dosyası kullanıcıların bir ***web*** tarayıcısı kullan
 **Angular Mimarisi Ve Yapı Taşları**
 
 Angular, tam teşekküllü bir model dışyüz denetimcisi (MVC) framework’üdür. Uygulamanın yapılandırma aşaması hakkında rehberlik eder. ***DOM*** oluştururken çift yönlü veri akışı sağlar. Aşağıdakiler, kendi içinde Angular uygulamasının yapı taşlarıdır: 
-
+https://i.hizliresim.com/j8mz411.jpg
 Modüller
 
 Bir ***Angular*** uygulamasının, otomatik önyükleme uygulaması başlatmak için ***AppModule*** adlı bir kök modülü bulunmaktadır.
